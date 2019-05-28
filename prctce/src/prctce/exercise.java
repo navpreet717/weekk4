@@ -15,6 +15,8 @@ public class exercise {
 		int numberofchars=name.length();
 		System.out.println("number of characters:"+numberofchars);
 		//geyt a specific character
+		char characteratposition4=name.charAt(4);
+		System.out.println("position4:"+characteratposition4);
 		//get a substriung
 		//check if one string is equals to another
 		//make everything uppercase
