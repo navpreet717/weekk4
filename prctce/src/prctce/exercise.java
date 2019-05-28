@@ -17,8 +17,19 @@ public class exercise {
 		//geyt a specific character
 		char characteratposition4=name.charAt(4);
 		System.out.println("position4:"+characteratposition4);
-		//get a substriung
+		
+		      
+		
+		//get a substring
+		String sub = name.substring (0, 5);
+		System.out.println("substring:"+sub);
+		
+		             //or
+		String sub2 = name.substring (4);
+		System.out.println("substring:"+sub);
+		
 		//check if one string is equals to another
+		
 		//make everything uppercase
 		//make everything lowercase
 		
