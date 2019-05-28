@@ -6,8 +6,20 @@ public class exercise {
 		// TODO Auto-generated method stub
 		//first program in string
 		//create a string
+		
+		String name="Navpreet Kaur";
+		System.out.println(name);
+		
+		
 		//number of characters in the string
-		//m
+		int numberofchars=name.length();
+		System.out.println("number of characters:"+numberofchars);
+		//geyt a specific character
+		//get a substriung
+		//check if one string is equals to another
+		//make everything uppercase
+		//make everything lowercase
+		
 
 	}
 
