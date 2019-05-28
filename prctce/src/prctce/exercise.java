@@ -7,7 +7,7 @@ public class exercise {
 		//first program in string
 		//create a string
 		//number of characters in the string
-		//
+		//m
 
 	}
 
