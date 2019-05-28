@@ -45,9 +45,12 @@ public class exercise {
 			System.out.println("a and c are same");
 		}
 		//make everything uppercase
+		String p="navu";
+		System.out.println(p.toUpperCase());
 		//make everything lowercase
 		
-
+		String d="NAV";
+		System.out.println(d.toLowerCase());
 	}
 
 }
