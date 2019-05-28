@@ -29,21 +29,7 @@ public class exercise {
 		System.out.println("substring:"+sub);
 		
 		//check if one string is equals to another
-		String a="NAVPREET";
-		String b="GURSAHAB";
-		String c="NAVPREET";
-		if(a.contentEquals(b))
-		{
-			System.out.println("a and b are same");
-		}
-		else if(b.contentEquals(c))
-		{
-			System.out.println("b and c are same");
-		}
-		else if(c.contentEquals(c))
-		{
-			System.out.println("a and c are same");
-		}
+		
 		//make everything uppercase
 		//make everything lowercase
 		
